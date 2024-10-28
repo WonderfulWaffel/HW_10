@@ -1,0 +1,122 @@
+    1  cd /c/DENYS/desktop/тека
+    2  cd /c/Denys/desktop/123
+    3  cd /c/Users/Denys/Desktop/123
+    4  [200~
+    5  -c && rm ~/.bash_history
+    6  -c && rm ~/.bash_history
+    7  git clone 200~https://github.com/WonderfulWaffel/HW_10.git
+    8  git clone ^[[200~https://github.com/WonderfulWaffel/HW_10.git
+    9  cd /c/Users/Denys/Desktop/123
+   10  git clone https://github.com/WonderfulWaffel/HW_10.git
+   11  cd /c/Users/Denys/Desktop/123/HW_10
+   12  touch text_ignore.txt
+   13  git status
+   14  git status
+   15  git clone https://github.com/WonderfulWaffel/HW_10.git
+   16  cd /c/Users/Denys/Desktop/123
+   17  git clone https://github.com/WonderfulWaffel/HW_10.git
+   18  cd /c/Users/Denys/Desktop/123/HW_10
+   19  touck text_ignore.txt
+   20  touch text_ignore.txt
+   21  git status
+   22  git add 1.0
+   23  git add .gitignore
+   24  git commit
+   25  git confing --global user.email "homich.denys@gmail.com"
+   26  git config --global user.email "homich.denys@gmail.com"
+   27  git config --global user.name "Denys"
+   28  git commit
+   29  cd /c/Users/Denys/Desktop/123/HW_10
+   30  git commit -m '<message>'
+   31  touch main_test.txt
+   32  git add main_test.txt
+   33  git commit -m '<message>'
+   34  help
+   35  git branch <develop>
+   36  git branch <develop> <main>
+   37  commit --help
+   38   --help
+   39  cd /c/Users/denys/desktop/123/hw_10
+   40  ls
+   41  cd /
+   42  cd /c/Users/denys/desktop/123/hw_10
+   43  cd ..
+   44  rmdir hw_10
+   45  git branch develop
+   46  cd /c/Users/Denys/Desktop/123/
+   47  git clone https://github.com/WonderfulWaffel/HW_10.git
+   48  cd /c/Users/Denys/Desktop/123/HW_10/
+   49  touch text_ignore.txt
+   50  nano
+   51  nano text_ignore.txt 
+   52  nano .gitignore 
+   53  vim .gitignore 
+   54  vim .gitignore 
+   55  nano .gitignore 
+   56  git status
+   57  git add .gitignore
+   58  git commit -m "modified .gitignore"
+   59  touch main_test.txt
+   60  git add main_test.txt
+   61  git commit -m "created main_test.txt"
+   62  git branch develop
+   63  git checkout -b <develop>
+   64  git checkout develop
+   65  touch develop_test.txt
+   66  git add develop_test.txt
+   67  commit -m "created new branch"
+   68  git commit -m "created new branch"
+   69  nano develop_test.txt 
+   70  nano develop_test.txt 
+   71  git status
+   72  git add develop_test.txt
+   73  git commit -m "just a small change"
+   74  git checkout main
+   75  marage --help
+   76  git marage --help
+   77  merge --help
+   78  git merge --help
+   79  git merge develop
+   80  git log
+   81  git merge develop
+   82  history > command_list.csv
+   83  git add history > command_list.csv
+   84  git add command_list.csv
+   85  git commit -m "one last commit"
+   86  git posh --help
+   87  git push --help
+   88  git push origin main
+   89  git clone https://github.com/WonderfulWaffel/HW_10.git
+   90  cd /c/Users/Denys/Desktop/123/
+   91  git clone https://github.com/WonderfulWaffel/HW_10.git
+   92  touch text_ignore.txt
+   93  nano .gitignore
+   94  cd /c/Users/Denys/Desktop/321/
+   95  git clone https://github.com/WonderfulWaffel/HW_10.git
+   96  cd /c/Users/Denys/Desktop/321/HW_10/
+   97  touch text_ignore.txt
+   98  nano .gitignore 
+   99  cd /c/Users/Denys/Desktop/oho/
+  100  git clone https://github.com/WonderfulWaffel/HW_10.git
+  101  cd /c/Users/Denys/Desktop/oho/HW_10/
+  102  touch text_ignore.txt
+  103  nano .gitignore 
+  104  git status
+  105  git add .gitignore 
+  106  git commit -m "changed list of ignored files"
+  107  touch main_test.txt
+  108  git add main_test.txt 
+  109  git commit -m "created test file"
+  110  git branch develop
+  111  git checkout develop
+  112  touch develop_test.txt
+  113  git add develop_test.txt 
+  114  git commit -m "created new branch"
+  115  nano develop_test.txt 
+  116  git status
+  117  git add develop_test.txt 
+  118  git commit -m "edited develop_test.txt"
+  119  git checkout main 
+  120  git merge develop
+  121  git log
+  122  history > command_list.csv
